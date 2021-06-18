@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-image: url('https://i.blogs.es/2abd6e/android-12-developer-preview/1024_2000.jpg');
+    background-size: cover;
+    height: 350px;
+    margin-bottom: 40px;
+}
+header div{
+    width: 100%;
+    height: 100%;
+}
+div span{
+    font-size: 60px;
+    color: white;
+    left: 100px;
+    top: 70px;
+    background-color: rgba(240, 248, 255, 0.452);
+    padding: 10px;
+    border-radius: 15px;
+    position: absolute;
+    font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+header p {
+    background-color: #5abd86;
+    color: white;
+    font-weight: bold;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 20px;
+    border-radius: 18px;
+    width: 300px;
+    left: 380px;
+    bottom: 250px;
+    padding: 10px;
+    text-align: center;
+    border: 5px solid white;
+    position: absolute;
+     }
+     header img {
+        height: 200px;
+        width: 200px;
+        position:fixed;
+        border-radius: 70px;
+        right: 180px;
+        top: 50px;
+      }
+      nav span {
+        margin-right: 50px;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 400;
+        font-size: 20px;
+        background-color: rgb(201, 201, 201);
+        border-radius: 10px;
+        padding: 15px;
+      }
+      nav { position: absolute;
+        top: 10px;
+        left: 40px;
+    }
